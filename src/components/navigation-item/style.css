@@ -1,0 +1,7 @@
+
+  .navigation-item{
+    display: flex;
+    justify-content: center;
+    width: 33%;
+    margin: 1% 0;
+}

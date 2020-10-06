@@ -1,0 +1,25 @@
+.game-menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.game-field{
+    display: flex;
+    justify-content: center;
+}
+.game-canvas{
+    padding: 10px 0;
+    background-color: white;
+}
+.play-button{
+    max-width: 64px;
+    max-height: 64px;
+}
+.play-button:hover{
+    cursor: pointer;
+}
+.home-button{
+    width: 64px;
+    height: 64px;
+}

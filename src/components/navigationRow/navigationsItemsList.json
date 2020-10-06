@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Первый уровень",
+        "img": "./img/easy.png",
+        "levelName": "easy"
+    },
+    {
+        "id": 2,
+        "title": "Второй уровень",
+        "img": "/img/medium.png",
+        "levelName": "medium"
+    },
+    {
+        "id": 3,
+        "title": "Третий уровень",
+        "img": "/img/hard.png",
+        "levelName": "hard"
+    }
+]
